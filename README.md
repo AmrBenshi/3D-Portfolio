@@ -1,4 +1,4 @@
-# Web Project
+# 3D Portfolio!
 
 ## Table of Contents
 - [Introduction](#introduction)
